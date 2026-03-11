@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Dental Care Clinic",
+  "description": "A premium, modern dental clinic website featuring Dr. Sharma's specialized services, patient reviews, and appointment booking.",
+  "requestFramePermissions": ["geolocation"]
+}
